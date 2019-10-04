@@ -9,9 +9,9 @@ The repository contains the following folders:
 * `challenge/` contains the files provided to the CTF participants. This is 
 the only directory with contents at the moment.
 
-* `source/`: in a week or two I will upload the source code of the pwnable 
-here as well. I am not uploading it yet to give people some time to attempt 
-solving the challenge exactly as it was provided during the CTF.
+* `source/`: contains the source code of the `socks.ko` module running in the 
+challenge VM. By mistake I also left a half-finished v2 module inside the VM
+filesystem that was not relevant to the challenge.
 
 * `solution/`: will contain a write-up of my solution as well as the exploit 
 to be used for reference purposes.
