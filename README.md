@@ -13,5 +13,5 @@ the only directory with contents at the moment.
 challenge VM. By mistake I also left a half-finished v2 module inside the VM
 filesystem that was not relevant to the challenge.
 
-* `solution/`: will contain a write-up of my solution as well as the exploit 
-to be used for reference purposes.
+* `solution/`: contains a write-up of my solution as well as two differnt 
+exploits to be used for reference purposes.
